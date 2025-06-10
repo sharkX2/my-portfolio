@@ -1,1 +1,36 @@
-
+{
+  "design": [
+    {
+      "name": "Canva",
+      "icon": "https://img.icons8.com/color/48/000000/canva.png"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop.png"
+    },
+    {
+      "name": "Figma",
+      "icon": "https://img.icons8.com/color/48/000000/figma.png"
+    },
+    {
+      "name": "Blender",
+      "icon": "https://img.icons8.com/color/48/000000/blender-3d.png"
+    },
+    {
+      "name": "Adobe XD",
+      "icon": "https://img.icons8.com/color/48/000000/adobe-xd.png"
+    }
+  ],
+  "frontend": [
+    {
+      "name": "HTML5",
+      "icon": "https://img.icons8.com/color/48/000000/html-5.png"
+    },
+    {
+      "name": "CSS3",
+      "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "https://img.icons8.com/color/48/000000/javascript.png"
+    },
