@@ -1223,3 +1223,12 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+/* Add this to your CSS file */
+.tawk-min-container .tawk-button {
+    background: #FF0000 !important;
+}
+.tawk-header {
+    background: #FF0000 !important;
+    color: white !important;
+}
