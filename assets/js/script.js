@@ -72,7 +72,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Canva Designer", "Logo Designer", "Poster Maker", "Figma Designer", "Blender"],
+    strings: ["Canva Designer", "Logo Designer", "Poster Maker", "Figma Designer", "Data Analytics"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
