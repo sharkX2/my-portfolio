@@ -72,11 +72,12 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Canva Designer", "Logo Designer", "Poster Maker", "Figma Designer", "Data Analytics"],
-    loop: true,
-    typeSpeed: 50,
-    backSpeed: 25,
-    backDelay: 500,
+  strings: ["ServiceNow Developer", "ITSM Enthusiast", "Web Developer", "Tech Learner"],
+  typeSpeed: 100,
+  backSpeed: 50,
+  loop: true
+});
+
 });
 // <!-- typed js effect ends -->
 
